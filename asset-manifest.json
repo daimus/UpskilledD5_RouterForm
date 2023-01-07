@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UpskilledD5_RouterForm/static/css/main.9627f8d2.css",
+    "main.js": "/UpskilledD5_RouterForm/static/js/main.7119f29f.js",
+    "static/js/787.6b6e7f3f.chunk.js": "/UpskilledD5_RouterForm/static/js/787.6b6e7f3f.chunk.js",
+    "index.html": "/UpskilledD5_RouterForm/index.html",
+    "main.9627f8d2.css.map": "/UpskilledD5_RouterForm/static/css/main.9627f8d2.css.map",
+    "main.7119f29f.js.map": "/UpskilledD5_RouterForm/static/js/main.7119f29f.js.map",
+    "787.6b6e7f3f.chunk.js.map": "/UpskilledD5_RouterForm/static/js/787.6b6e7f3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9627f8d2.css",
+    "static/js/main.7119f29f.js"
+  ]
+}
